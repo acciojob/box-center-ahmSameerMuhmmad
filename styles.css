@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.container{
+            background-color: lightblue;
+            text-align: center;
+            border: 1px solid black;
+            width: 60%;
+            height: 200px;
+            padding-top: 100px;
+        }
